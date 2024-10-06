@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "XiaomiPad6ProKernel",
       "repo": "https://github.com/h3ll0www0rld/kernel_xiaomi_liuqin",
-      "branch": "liuqin-t-oss",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "branch": "staging",
+      "device": "liuqin",
+      "defconfig": "liuqin_defconfig"
     },
     "toolchains": [
       {
